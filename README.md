@@ -1,2 +1,2 @@
-# RandomCGI1
+# RandomCGI - Demo 1
 First Test With Three.JS
